@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="CSM-src">
+      <UniqueIdentifier>{3695f7a5-28c1-40f9-b8ea-e8eab79b44dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM-shaders">
+      <UniqueIdentifier>{d70807f7-79b8-4e3d-b833-9e4038f0168a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ExplorerModel">
+      <UniqueIdentifier>{33d07a2b-cab1-4206-8a3f-8161ca095669}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AVI">
+      <UniqueIdentifier>{82005494-a2f6-4d3a-bbb5-6810dc895be8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{a611cc78-fcb4-4e5c-b8ac-4ecb65b7c947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Particles">
+      <UniqueIdentifier>{4d63b90e-8228-406a-9658-3b951f60078c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="nvModel-nvImage">
+      <UniqueIdentifier>{d2b5121e-de8e-4bbe-a71a-ded35fc52b2e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgGridSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSunSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgWizzard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgWizzardCreate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgWizzardLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgWizzardWelcom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MoonVis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MoonVisDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MoonVisView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CSM-src\camera.cpp">
+      <Filter>CSM-src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CSM-src\cascaded_shadow_maps.cpp">
+      <Filter>CSM-src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CSM-src\terrain.cpp">
+      <Filter>CSM-src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CSM-src\utility.cpp">
+      <Filter>CSM-src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ExplorerModel\DataFile.cpp">
+      <Filter>ExplorerModel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ExplorerModel\Model.cpp">
+      <Filter>ExplorerModel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AVI\AVIGenerator.cpp">
+      <Filter>AVI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AVI\AVIRecorder.cpp">
+      <Filter>AVI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Particles\soil.cpp">
+      <Filter>Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Particles\TailFlame.cpp">
+      <Filter>Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvImage\src\nvImage.cpp">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvImage\src\nvImageDDS.cpp">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvImage\src\nvImageHdr.cpp">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvImage\src\nvImagePng.cpp">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvImage\src\rgbe.c">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvModel\src\nvModel.cc">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvModel\src\nvModelObj.cc">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvModel\src\nvModelQuery.cc">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\nvModel\src\nvUtils.cc">
+      <Filter>nvModel-nvImage</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgGridSet.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderTextureFBO.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSunSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgWizzard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgWizzardCreate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgWizzardLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgWizzardWelcom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MoonVis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MoonVisDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MoonVisView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Splash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CSM-src\camera.h">
+      <Filter>CSM-src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CSM-src\main.h">
+      <Filter>CSM-src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CSM-src\terrain.h">
+      <Filter>CSM-src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\DataFile.h">
+      <Filter>ExplorerModel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\Model.h">
+      <Filter>ExplorerModel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\AVI\AVIGenerator.h">
+      <Filter>AVI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\AVI\AVIRecorder.h">
+      <Filter>AVI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\aabb.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\AsmName.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\box.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\forceinline.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\glx.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\line.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\matrix.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\nvMath.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\nvMatrix.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\nvQuaternion.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\nvShaderUtils.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\nvVector.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\vec3f.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\vec4f.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\include\zlib.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Particles\soil.h">
+      <Filter>Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Particles\SoilAnm.h">
+      <Filter>Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Particles\TailFlame.h">
+      <Filter>Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>ExplorerModel</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\flash.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\MoonVis.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\MoonVisDoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MoonVis.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MoonVis.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\shaders\shadow_pcf_gaussian_fragment.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\shadow_vertex.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\view_fragment.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\view_vertex.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="MoonVis.reg" />
+    <None Include="..\..\shaders\toon_fragment.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\toon_vertex.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\cloud_fragment.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\cloud_vertex.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\starbox_fragment.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\starbox_vertex.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\newfire_fragment.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\newfire_vertex.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\gooch_fragment.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+    <None Include="..\..\shaders\gooch_vertex.glsl">
+      <Filter>CSM-shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

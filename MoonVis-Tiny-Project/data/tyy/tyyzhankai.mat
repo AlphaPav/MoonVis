@@ -1,0 +1,43 @@
+Material Numbers: 5
+TextureMode: 1
+---------------------------------------------------------
+Material Name: black
+Diffuse: 100 100 100
+Ambitient: 100 100 100
+Specular: 255 255 255
+Shininess: 100.00
+Texture Path: ""
+Normal Path: ""
+---------------------------------------------------------
+Material Name: gold
+Diffuse: 255 192 87
+Ambitient: 255 192 87
+Specular: 255 255 255
+Shininess: 100.00
+Texture Path: ""
+Normal Path: ""
+---------------------------------------------------------
+Material Name: gold
+Diffuse: 192 192 192
+Ambitient: 192 192 192
+Specular: 255 255 255
+Shininess: 100.00
+Texture Path: ""
+Normal Path: ""
+---------------------------------------------------------
+Material Name: blue
+Diffuse: 192 192 192
+Ambitient: 192 192 192
+Specular: 255 255 255
+Shininess: 100.00
+Texture Path: "C:\work-moon\MoonVis-Tiny-release20181130\data\tyy\two.bmp"
+Normal Path: ""
+---------------------------------------------------------
+Material Name: white
+Diffuse: 255 255 255
+Ambitient: 255 255 255
+Specular: 255 255 255
+Shininess: 100.00
+Texture Path: ""
+Normal Path: ""
+---------------------------------------------------------

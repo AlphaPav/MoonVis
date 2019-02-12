@@ -1,0 +1,1008 @@
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1
+count: 4
+asmId: 4
+rot cout: 1
+asmId: 6
+rot cout: 1
+asmId: 8
+rot cout: 1
+asmId: 12
+rot cout: 1

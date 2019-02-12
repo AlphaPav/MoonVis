@@ -1,0 +1,121 @@
+﻿  stdafx.cpp
+  nvUtils.cc
+  nvModelQuery.cc
+  nvModelObj.cc
+  nvModel.cc
+  nvImagePng.cpp
+  nvImageHdr.cpp
+  nvImageDDS.cpp
+  nvImage.cpp
+  正在生成代码...
+  rgbe.c
+  Splash.cpp
+  MoonVisView.cpp
+       _Adding library: vfw32.lib
+  Note: including lib: glut32.lib
+  
+d:\code\vsrepos\moonvis-tiny-project\current\moonvis\moonvisview.cpp(382): warning C4101: “index”: 未引用的局部变量
+  MoonVisDoc.cpp
+  Note: including lib: glut32.lib
+  
+d:\code\vsrepos\moonvis-tiny-project\current\moonvis\moonvisdoc.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+  MoonVis.cpp
+       _Adding library: vfw32.lib
+  Material.cpp
+d:\code\vsrepos\moonvis-tiny-project\current\moonvis\material.cpp(311): warning C4477: “fwprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+d:\code\vsrepos\moonvis-tiny-project\current\moonvis\material.cpp(316): warning C4477: “fwprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+d:\code\vsrepos\moonvis-tiny-project\current\moonvis\material.cpp(317): warning C4477: “fwprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+d:\code\vsrepos\moonvis-tiny-project\current\moonvis\material.cpp(347): warning C4477: “fwprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+d:\code\vsrepos\moonvis-tiny-project\current\moonvis\material.cpp(357): warning C4477: “fwprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+d:\code\vsrepos\moonvis-tiny-project\current\moonvis\material.cpp(363): warning C4477: “fwprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+  MainFrm.cpp
+       _Adding library: vfw32.lib
+  glx.cpp
+  Note: including lib: glut32.lib
+  
+  DlgWizzardWelcom.cpp
+  DlgWizzardLoad.cpp
+  DlgWizzardCreate.cpp
+  DlgWizzard.cpp
+  DlgSunSet.cpp
+  Note: including lib: glut32.lib
+  
+  DlgGridSet.cpp
+  Note: including lib: glut32.lib
+  
+  Animation.cpp
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(184): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(185): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(186): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(192): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(193): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(194): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  Note: including lib: glut32.lib
+  
+  TailFlame.cpp
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(184): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(185): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(186): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(192): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(193): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(194): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  soil.cpp
+  Note: including lib: glut32.lib
+  
+  Model.cpp
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(184): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(185): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(186): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(192): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(193): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(194): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(362): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(370): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(438): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(498): warning C4305: “初始化”: 从“double”到“float”截断
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(679): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(720): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(1119): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(1230): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(1236): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\model.cpp(1242): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  DataFile.cpp
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(184): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(185): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(186): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(192): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(193): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\common\include\vec3f.h(194): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\datafile.cpp(166): warning C4305: “初始化”: 从“double”到“float”截断
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\datafile.cpp(400): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\datafile.cpp(489): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\datafile.cpp(506): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\datafile.cpp(674): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\explorermodel\datafile.cpp(691): warning C4018: “<”: 有符号/无符号不匹配
+  AVIRecorder.cpp
+       _Adding library: vfw32.lib
+  AVIGenerator.cpp
+       _Adding library: vfw32.lib
+  正在生成代码...
+  utility.cpp
+  Note: including lib: glut32.lib
+  
+  terrain.cpp
+  Note: including lib: glut32.lib
+  
+d:\code\vsrepos\moonvis-tiny-project\current\csm-src\terrain.cpp(1326): warning C4101: “outstring”: 未引用的局部变量
+d:\code\vsrepos\moonvis-tiny-project\current\csm-src\terrain.cpp(1529): warning C4018: “>=”: 有符号/无符号不匹配
+d:\code\vsrepos\moonvis-tiny-project\current\csm-src\terrain.cpp(1539): warning C4018: “>=”: 有符号/无符号不匹配
+  cascaded_shadow_maps.cpp
+  Note: including lib: glut32.lib
+  
+  camera.cpp
+  Note: including lib: glut32.lib
+  
+       _Adding library: vfw32.lib
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\Code\VSrepos\MoonVis-Tiny-Project\Current\Debug\MoonVisTiny.exe) 与 Linker 的 OutputFile 属性值(D:\Code\VSrepos\MoonVis-Tiny-Project\bin\moonvisd.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(MoonVisTiny) 与 Linker 的 OutputFile 属性值(moonvisd)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+MSVCRTD.lib(initializers.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  MoonVis.vcxproj -> D:\Code\VSrepos\MoonVis-Tiny-Project\Current\Debug\MoonVisTiny.exe
