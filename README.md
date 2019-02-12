@@ -22,7 +22,7 @@ winter project in “GPU-based rendering”; made with OpenGL, GLSL
 
 - Gaussian Blur Shadowing comparison (3X3; 10X10; 20X20)
 <p float="left">
-  <img src="/ScreenShots/pic7.png" width="300" />
-  <img src="/ScreenShots/pic8.png" width="300" /> 
-  <img src="/ScreenShots/pic9.png" width="300" /> 
+  <img src="/ScreenShots/pic7.png" width="400" />
+  <img src="/ScreenShots/pic8.png" width="400" /> 
+  <img src="/ScreenShots/pic9.png" width="400" /> 
 </p>
