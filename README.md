@@ -7,8 +7,8 @@ winter project in “GPU-based rendering”; made with OpenGL, GLSL
 ## demo
 - Gooch shading
 <p float="left">
-  <img src="/ScreenShots/pic1.png" width="450" />
-  <img src="/ScreenShots/pic2.png" width="450" /> 
+  <img src="/ScreenShots/pic1.png" width="400" />
+  <img src="/ScreenShots/pic2.png" width="400" /> 
 </p>
 
 - Gooch Shader for terrain
